@@ -53,9 +53,9 @@ namespace RazorPagesGame.Models
                     Title = "Marvel's Spider-Man",
                     ReleaseDate = DateTime.Parse("2018-09-07"),
                     Genre = "Action-adventure",
-                    NumberOfPlayableCharacters = 1,
-                    PlayableCharacterGender = "Male",
-                    PlayableCharacterRace = "White"
+                    NumberOfPlayableCharacters = 3,
+                    PlayableCharacterGender = "Male, Female",
+                    PlayableCharacterRace = "White, Black"
                 }
                 
                 );
